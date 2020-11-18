@@ -1,9 +1,9 @@
-# Chainlink OpenSea External Adapter
+# Chainlink OpenSea External Adapter (WIP)
 
 ## Input Params
 
-- `offset`, `startAt`: The symbol of the currency to query
-- `limit`, `qty`: The symbol of the currency to convert to
+- `offset`, `startAt`: The # of contracts to offset
+- `limit`, `qty`: Limit of contracts/dapps to return
 
 ## Output
 
