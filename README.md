@@ -11,7 +11,7 @@
 {
  "jobRunID": "278c97ffadb54a5bbb93cfec5f7b5503",
  "data": {
-  ["collections": [..],
+  ["collections": [],
   "result": 250]
  },
  "statusCode": 200
